@@ -5,7 +5,7 @@ def func sub(x,y):
 	return x-y
 
 def func mul(x,y):
-	pass
+	return x*y
 
 def func div(x,y):
 	pass
