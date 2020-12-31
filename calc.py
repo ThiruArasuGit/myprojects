@@ -1,8 +1,8 @@
 def func add(x,y):
-	pass
+	return x+y
 
 def func sub(x,y):
-	pass
+	return x-y
 
 def func mul(x,y):
 	pass
