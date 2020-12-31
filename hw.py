@@ -1,1 +1,4 @@
-print("Hello world! This is my first cloned file from remote GIT repository.")
+def hw_redfined(stri):
+	print( "Hi " + stri + ", welcome to pythn world!")
+
+hw_redfined("Thiru")
