@@ -1,4 +1,11 @@
 def hw_redfined(stri):
-	print( "Hi " + stri + ", welcome to pythn world!")
+	return "Hi " + stri + ", welcome to pythn world!"
 
-hw_redfined("Thiru")
+def hw_fullname(fn,ln):
+	return fn + ' '+ln
+
+str = hw_redfined("Thiru")
+print(str)
+
+fullname = hw_fullname('Thirunavukkarasu', 'Arumugam')
+print ("my full name is " + fullname)
