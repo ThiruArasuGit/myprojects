@@ -8,4 +8,4 @@ def func mul(x,y):
 	return x*y
 
 def func div(x,y):
-	pass
+	return x/y
