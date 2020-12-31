@@ -1,4 +1,5 @@
-import os
+import os,random
 
-os.mkdir("d:\\tempdir")
-print ("This file is add  new items")
+num = random.random()
+print(num)
+
