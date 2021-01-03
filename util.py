@@ -14,3 +14,5 @@ print ("randrange: " + str(randrange))
 
 randchoice = random.choice('computer')
 print("randchoice: " + randchoice)
+
+print('Thirunavukkarasu')
