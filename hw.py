@@ -1,1 +1,4 @@
-print("Hello World! This is my first GIT pythin file")
+def greet(msg):
+	print(msg)
+
+greet('Hi Welcome!')
